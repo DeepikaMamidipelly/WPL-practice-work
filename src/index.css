@@ -92,7 +92,9 @@ code {
 }
 
 /*student feedback */
-
+.add{
+  
+}
 .student-feeback-name {
   font-weight: bold;
   color: var(--primary-color);
