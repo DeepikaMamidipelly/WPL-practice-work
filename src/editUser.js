@@ -4,7 +4,7 @@ import { useState } from "react";
 
 const EditUser = () => {
 	console.log("user:");
-	console.log("adding");
+	console.log("I m adding something else");
 	//   console.log("user:", this.props.user);
 	//   console.log("name", props.user.firstname);
 	const firstname = "Deepika";
